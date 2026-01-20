@@ -23,8 +23,8 @@ Requirements:
   pip install scipy==1.13.1  
   pip install seaborn==0.13.2  
   pip install spacy==3.8.7  
-  pip install tensorflow==2.17.0
-  pip install urllib3==2.5.0
-  pip install xgboost==3.0.4
-  pip install zipp==3.23.0
-  pip install jupyter notebook
+  pip install tensorflow==2.17.0  
+  pip install urllib3==2.5.0  
+  pip install xgboost==3.0.4  
+  pip install zipp==3.23.0  
+  pip install jupyter notebook  
