@@ -191,7 +191,11 @@ M.Rakesh
 
 ## 📜 License
 This project is intended for academic and research purposes and been published in-  
-Paper link: https://zesterapublications.com/journals/index.php/ijaene/article/view/428  
+
+---
+
+## 🔗 Paper Publication
+[Preview](https://zesterapublications.com/journals/index.php/ijaene/article/view/428)
 
 ---
 
