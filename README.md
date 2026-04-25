@@ -1,4 +1,4 @@
-# 📡 Hybrid AI-Based Signal Quality Classification in Optical Communication Systems
+# 📡 Hybrid AI Framework for High-Precision Signal Quality Classification in Optical and Wireless Communication Systems
 
 ## 📌 Overview
 This project presents a **hybrid machine learning and deep learning framework** for robust signal quality classification in optical and wireless communication systems.
